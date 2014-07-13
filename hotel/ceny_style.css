@@ -1,0 +1,12 @@
+h1 { text-align: center;
+   border:2px solid gray;
+   }
+.filtrujrodzaj { border:1px solid gray;
+               width:90%;
+               }
+.filtrujsezon { border:1px solid gray;
+              width:90%;
+              }
+.button { width:100%;
+                     }
+.button1 { width:400px;}
